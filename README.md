@@ -25,7 +25,7 @@
   <h3>💛 Communication</h3>
 </div>
 <a href="https://github.com/wang-yurin" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">
-<a href="https://king_1994@naver.com" target="_blank"><img src="https://img.shields.io/badge/-Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white">
+<a href="mailto:king_1994@naver.com" target="_blank"><img src="https://img.shields.io/badge/-Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white">
 <a href="https://www.instagram.com/yuloverin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white">
 <br>
 </div>

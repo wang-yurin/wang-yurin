@@ -1,7 +1,7 @@
 <h3 align=center>I'm a beginner developer. 👋 </h3>
 <br>
 <div align=center>
-  <h2>🎯 Goal</h2>
+  <h2>🎯 Goals</h2>
 </div>
 <br>
 <div align=center>
@@ -15,6 +15,8 @@
 <div align=center> <h2>💡 Stacks</h2></div>
 <div align=center>
 <img src="https://img.shields.io/badge/-HTML5-%23f75421?style=flat-square&logo=HTML5&logoColor=white"> 
-<img src="https://img.shields.io/badge/-CSS3-%231462b0?style=flat-square&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-%231462b0?style=flat-square&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  
 </div>
 

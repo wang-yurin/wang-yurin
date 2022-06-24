@@ -38,7 +38,7 @@
 <a href="mailto:king_1994@naver.com" target="_blank"><img src="https://img.shields.io/badge/-Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white">
 <a href="https://www.instagram.com/yuloverin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white">
 <a href="https://www.facebook.com/Wangyurin" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white">
-  
+<a href="https://github.com/wang-yurin" target="_blank">
 <br>
 <br>
 <br>

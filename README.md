@@ -1,6 +1,4 @@
-<div align="center">
-  <h2 style="text-decoration: none"> <👋 Hello, Yurin World! /> </h2>
-</div>
+<h3 align=center> <👋 Hello, Yurin World! /> </h3>
 
 <br>
 <br>
@@ -48,4 +46,3 @@
  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wang-yurin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 </div>
-

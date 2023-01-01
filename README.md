@@ -1,43 +1,22 @@
-<h3 align=center> <👋 Hello, Yurin World! /> </h3>
-<br>
-<div align=center>
-  <h2>🎯 Goals</h2>
-</div>
-<div align=center>
-매일 코딩 공부하기 (Learn to code)<br>
-새로운 기술 배우기 위해 준비하기 (Prepare to learn new skills)<br>
-토론, 솔루션 공유, 도움 요청하기 (Join a community)<br>
-개인 프로젝트 구축하기 (Get creative)<br>
-뛰어난 포트폴리오 만들기 (Make a stellar portfolio)<br>
-</div>
+### 💫 소개
+안녕하세요. 프론트엔드 개발자 왕유린입니다.<br>
+배움과 경험을 공유하는 문화를 선호합니다. 배운 것을 이해하고 체화하는 과정에서 어떻게하면 그것을 나만의 언어로 풀어내어 이해한 뒤 타인에게 쉽고 명확하게 전달할지에 대한 고민을 합니다.
+
+### 💻 기술 스택
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+
+### 🌐 소셜
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wangyurin)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/wang-yurin)
+[![Velog](https://img.shields.io/badge/Velog-%2320C997.svg?logo=Velog&logoColor=white)](https://velog.io/@chic1994)
+[![Naver](https://img.shields.io/badge/Naver-%2303C75A.svg?logo=Naver&logoColor=white)](mailto:king_1994@naver.com)
 
 <br>
-<br>
 
-<div align=center>
-  <h2>💡 My Skills</h2>
-</div>
-
-<div align=center>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-
-<br>
-<br>
-
-<div align=center>
-  <h2>💛 Connect with me</h2>
-</div>
-<a href="https://github.com/wang-yurin" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">
-<a href="https://velog.io/@chic1994" target="_blank"><img src="https://img.shields.io/badge/-Velog-%2320C997?style=flat-square&logo=Velog&logoColor=white">
-<a href="mailto:king_1994@naver.com" target="_blank"><img src="https://img.shields.io/badge/-Naver-%2303C75A?style=flat-square&logo=Naver&logoColor=white">
-<a href="https://www.facebook.com/Wangyurin" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white">
-<a href="https://github.com/wang-yurin" target="_blank">
-<br>
-<br>
-<br>
-<br>
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wang-yurin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=wang-yurin&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)

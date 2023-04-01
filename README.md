@@ -16,7 +16,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/wang-yurin)
 [![Velog](https://img.shields.io/badge/Velog-%2320C997.svg?logo=Velog&logoColor=white)](https://velog.io/@chic1994)
 [![Naver](https://img.shields.io/badge/Naver-%2303C75A.svg?logo=Naver&logoColor=white)](mailto:king_1994@naver.com)
-
-<br>
-
-![](https://github-readme-stats-ruby-one.vercel.app/api?username=wang-yurin&theme=city_light)

@@ -19,4 +19,4 @@
 
 <br>
 
-![](https://github-readme-stats-ruby-one.vercel.app/api?username=wang-yurin&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=wang-yurin&theme=city_light)
